@@ -1,0 +1,28 @@
+16:50:08.636 [hello-akka.actor.default-dispatcher-3] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+SLF4J: A number (1) of logging calls during the initialization phase have been intercepted and are
+SLF4J: now being replayed. These are subject to the filtering rules of the underlying logging system.
+SLF4J: See also http://www.slf4j.org/codes.html#replay
+16:50:08.771 [hello-akka.actor.default-dispatcher-5] INFO com.srinivart.hello.HelloWorld - Hello World!
+16:50:08.773 [hello-akka.actor.default-dispatcher-5] INFO com.srinivart.hello.HelloWorld - Hello Akka!
+16:50:08.775 [hello-akka.actor.default-dispatcher-5] INFO com.srinivart.hello.HelloWorldBot - Greeting 1 for Akka
+16:50:08.775 [hello-akka.actor.default-dispatcher-7] INFO com.srinivart.hello.HelloWorldBot - Greeting 1 for World
+16:50:08.776 [hello-akka.actor.default-dispatcher-3] INFO com.srinivart.hello.HelloWorld - Hello Akka!
+16:50:08.776 [hello-akka.actor.default-dispatcher-3] INFO com.srinivart.hello.HelloWorld - Hello World!
+16:50:08.776 [hello-akka.actor.default-dispatcher-3] INFO com.srinivart.hello.HelloWorldBot - Greeting 2 for Akka
+16:50:08.776 [hello-akka.actor.default-dispatcher-3] INFO com.srinivart.hello.HelloWorldBot - Greeting 2 for World
+16:50:08.777 [hello-akka.actor.default-dispatcher-7] INFO com.srinivart.hello.HelloWorld - Hello Akka!
+16:50:08.778 [hello-akka.actor.default-dispatcher-5] INFO com.srinivart.hello.HelloWorldBot - Greeting 3 for Akka
+16:50:08.778 [hello-akka.actor.default-dispatcher-7] INFO com.srinivart.hello.HelloWorld - Hello World!
+16:50:08.778 [hello-akka.actor.default-dispatcher-8] INFO com.srinivart.hello.HelloWorldBot - Greeting 3 for World
+
+
+
+
+
+Resources
+------
+
+https://doc.akka.io/docs/akka/current/typed/guide/tutorial_2.html
+
+https://doc.akka.io/docs/akka/current/typed/actors.html
+
