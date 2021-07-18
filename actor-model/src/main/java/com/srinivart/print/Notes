@@ -1,0 +1,9 @@
+
+
+Case 1)
+--------
+21:46:59.746 [MainActor-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+
+The address of the actor is : Actor[akka://MainActor/user/ChildActor#-484310629]
+
+21:46:59.949 [MainActor-akka.actor.default-dispatcher-5] INFO akka.actor.RepointableActorRef - Message [java.lang.String] from Actor[akka://MainActor/user/ChildActor#-484310629] to Actor[akka://MainActor/user/ChildActor#-484310629] was unhandled. [1] dead letters encountered. This logging can be turned off or adjusted with configuration settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
